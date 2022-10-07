@@ -1,0 +1,3 @@
+# Numerical Inverse Kinematics
+
+예아.. 뉴머리컬 인버스 키네마틱스...
